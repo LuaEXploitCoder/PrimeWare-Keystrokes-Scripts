@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaEXploitCoder/PrimeWare-Keystrokes-Scripts/main/Code",true))()
